@@ -132,8 +132,8 @@ const quotes = [
       author: 'Marcus Aurelius'
     },
     {
-      text: 'He who has a why to live can bear almost any how.',
-      author: 'Friedrich Nietzsche'
+      text: '"The greatest obstacle to living is expectancy, which hangs upon tomorrow and loses today.',
+      author: 'Seneca'
     },
     {
       text: 'Well-being is realized by small steps, but is truly no small thing.',
